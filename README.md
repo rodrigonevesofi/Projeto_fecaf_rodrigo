@@ -1,4 +1,4 @@
-# Projeto: Gerenciador de Tarefas (Aluno: Rodrigo Neves Vieira)
+# Projeto: Gerenciador de Tarefas
 
 Este repositório contém um projeto acadêmico para a disciplina de Engenharia de Software.
 Objetivo: construir um sistema web simples para gerenciamento de tarefas seguindo práticas ágeis e integração contínua.
@@ -44,5 +44,5 @@ Durante o desenvolvimento decidimos adicionar a possibilidade de marcar priorida
 
 ---
 
-Trabalho desenvolvido como entrega prática do curso; escrita e código feitos em tom de estudante e com comentários pessoais.
+Trabalho desenvolvido como entrega prática do curso
 # Projeto_fecaf_rodrigo
