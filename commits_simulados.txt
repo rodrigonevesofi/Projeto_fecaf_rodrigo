@@ -1,0 +1,13 @@
+Histórico de Commits Simulado (10 commits mínimos)
+---------------------------------------------
+
+1. feat: criar estrutura inicial do projeto Flask
+2. feat: adicionar endpoint POST /tasks
+3. feat: implementar GET /tasks e GET /tasks/<id>
+4. feat: adicionar endpoints PUT e DELETE
+5. test: criar testes automatizados com pytest
+6. ci: configurar GitHub Actions com pytest
+7. docs: escrever README.md com instruções do projeto
+8. chore: adicionar campo 'priority' às tarefas (mudança de escopo)
+9. fix: corrigir validação do campo 'title' no endpoint PUT
+10. docs: adicionar relatório teórico e simulação de Kanban

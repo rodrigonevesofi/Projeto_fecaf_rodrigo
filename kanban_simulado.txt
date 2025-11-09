@@ -1,0 +1,14 @@
+KANBAN (simulado)
+A Fazer:
+- Criar CRUD
+- Configurar CI
+- Escrever testes
+- Escrever README
+- Criar diagramas
+
+Em progresso:
+- Implementar endpoint PUT
+
+Concluido:
+- Inicializar repositório
+- Criar app Flask
